@@ -1,0 +1,17 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:9.9.0
+
+    steps:
+      - checkout
+      - run: npm install
+          name: Install node modules
+          command: npm install
+      - run:
+          name: Start local server
+          command: npm run start
+       - run:
+          name: Build package
+          command: npm run build
