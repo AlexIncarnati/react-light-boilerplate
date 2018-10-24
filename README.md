@@ -5,7 +5,7 @@
 A light and responsive boilerplate to build ReactJS applications that includes ReactJS 16, SASS, Webpack 4, Babel / Eslint, JEST and Enzyme.
 It's a good ReactJS starter pack if you don't want to use the create-react-app package and you need something quick and lighter ready to use with everything preinstalled.
 
-![React](images/react.png)    ![ES6](images/es6.png)  ![Webpack](images/webpack.png)    ![ES6](images/sass.png)
+![React](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/react.png)    ![ES6](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/es6.png)  ![Webpack](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/webpack.png)    ![ES6](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/sass.png)
 
 
 ### Prerequisites
