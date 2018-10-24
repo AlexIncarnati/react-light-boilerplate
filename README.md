@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate.svg?style=svg)](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate)
 
-# REACT RESPONSIVE BOILERPLATE
+# React Light Boilerplate
 
 A light and responsive boilerplate to build ReactJS applications that includes ReactJS 16, SASS, Webpack 4, Babel / Eslint, JEST and Enzyme.
 
