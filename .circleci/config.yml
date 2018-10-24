@@ -7,11 +7,8 @@ jobs:
     steps:
       - checkout
       - run: npm install
-          name: Install node modules
-          command: npm install
-      - run:
-          name: Start local server
-          command: npm run start
-       - run:
-          name: Build package
-          command: npm run build
+
+      - run: npm run start
+
+       - run: npm run build
+
