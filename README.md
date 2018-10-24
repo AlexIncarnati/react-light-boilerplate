@@ -56,6 +56,10 @@ npm run build
 * Normalized css with Bootstrap Reboot 2018
 * Fully responsive, supports well all devices with media queries, mobile first approach
 
+## Authors
+
+* **Alessandro Incarnati** - *v. 1.0.0* - Not many hours of work into this, I wish I had more time.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
