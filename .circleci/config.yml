@@ -6,9 +6,16 @@ jobs:
 
     steps:
       - checkout
-      - run: npm install
-
-      - run: npm run start
-
-       - run: npm run build
-
+      - run:
+          name: npm install
+          command: npm install
+      - save_cache:
+        key: dependency-cache-{{ checksum "package.json" }}
+        paths:
+           - ./node_modules
+      - run:
+          name: npm run start
+          command: npm run start
+       - run:
+          name: npm run build
+          command: npm run build
