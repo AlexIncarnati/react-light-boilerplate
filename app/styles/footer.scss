@@ -1,0 +1,20 @@
+footer {
+	width: 100%;
+	margin: 0;
+	text-align: center;
+	height: 100px;
+	line-height: 100px;
+	background-color: lightsalmon;
+}
+
+.footer-title {
+	margin: 0;
+	font-size: 2rem;
+	text-align: center;
+}
+
+@media(min-width: 1400px) {
+	.footer-title {
+		font-size: 3rem;
+	}
+}

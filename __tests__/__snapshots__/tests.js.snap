@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The AppMain Component should render correctly 1`] = `
+<div
+  className="app"
+>
+  <Header />
+  <Content />
+  <Footer />
+</div>
+`;
+
+exports[`The Content Component should render correctly 1`] = `
+<div
+  className="app-content"
+>
+  <p
+    className="app-content-text"
+  >
+    CONTENT
+  </p>
+</div>
+`;
+
+exports[`The Footer Component should render correctly 1`] = `
+<footer>
+  <h5
+    className="footer-title"
+  >
+    React Light Boilerplate v1.0
+  </h5>
+</footer>
+`;
+
+exports[`The Header Component should render correctly 1`] = `
+<header
+  className="header"
+>
+  <h1
+    className="header-title"
+  >
+    HEADER
+  </h1>
+</header>
+`;
