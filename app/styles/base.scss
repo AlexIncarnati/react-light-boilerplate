@@ -32,3 +32,10 @@ body {
 	min-height: 100vh;
 	font-size: 1.5rem;
 }
+
+img[alt=react],
+img[alt=es6],
+img[alt=sass],
+img[alt=webpack] {
+	margin-right: 10px;
+}
