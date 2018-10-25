@@ -7,6 +7,14 @@ It's a good ReactJS starter pack if you don't want to use the create-react-app p
 
 ![React](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/react.png)    ![ES6](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/es6.png)  ![Webpack](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/webpack.png)    ![ES6](https://github.com/AlexIncarnati/react-light-boilerplate/raw/master/images/sass.png)
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+Clone the repo to your local environment on the terminal or just download the zip file.
+
+[https://github.com/AlexIncarnati/react-light-boilerplate.git](https://github.com/AlexIncarnati/react-light-boilerplate.git)
+
 
 ### Prerequisites
 
@@ -29,6 +37,12 @@ After installation please run
 ```
 npm run start
 ```
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.
+
 
 ## Running the tests
 
@@ -58,7 +72,7 @@ npm run build
 
 ## Authors
 
-* **Alessandro Incarnati** - *v. 1.0.0* - Not many hours of work into this, I wish I had more time.
+* **Alessandro Incarnati** - *v. 1.0.3*
 
 ## License
 
