@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate.svg?style=svg)](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate)
+- Tested and build with CircleCI  [![CircleCI](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate.svg?style=svg)](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate)
 
 # React Light Boilerplate
 
