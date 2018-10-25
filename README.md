@@ -1,4 +1,4 @@
-- Tested and build with CircleCI  [![CircleCI](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate.svg?style=svg)](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate)
+- Tested and built with CircleCI  [![CircleCI](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate.svg?style=svg)](https://circleci.com/gh/AlexIncarnati/react-light-boilerplate)
 
 # React Light Boilerplate
 
@@ -64,6 +64,7 @@ npm run build
 
 * Quick mock up a fully functional React app with 1 parent React Component (AppMain.js) and 3 children stateless Components (Header.js, Content.js. Footer.js)
 * Uses Webpack 4.2.20
+* Continuous Integration with CircleCI
 * Uses ESLINT for parsing JS
 * All components have been tested with JEST and ENZYME
 * Layout written in SASS with flexbox
