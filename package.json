@@ -39,7 +39,12 @@
 		}
 	},
 	"keywords": [
-		"react", "react starter", "react boilerplate", "react template", "react light boilerplate", "Responsive starter kit ReactJS"
+		"react",
+		"react starter",
+		"react boilerplate",
+		"react template",
+		"react light boilerplate",
+		"Responsive starter kit ReactJS"
 	],
 	"dependencies": {
 		"react": "^16.5.2",
